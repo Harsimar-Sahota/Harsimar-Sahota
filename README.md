@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsimar Sahota</h1>
 <h3 align="center">MERN Stack Specialist | Building Scalable Apps & Sharing Web Dev Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsimar-sahota&label=Profile%20views&color=0e75b6&style=flat" alt="harsimar-sahota" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=harsimar-sahota&label=Profile%20views&color=0e75b6&style=flat](https://1drv.ms/i/c/c77e046b602ffc3a/EXgIhZfHeNdEsWhsEvk9n3IBgefebnrkSPG90w3Rtep48g?e=Xagp7C)" alt="harsimar-sahota" /> </p>
 
 - 🔭 I’m currently working on **Connect Sphere(Product/Startup)**
 
