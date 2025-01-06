@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsimar-sahota&label=Profile%20views&color=0e75b6&style=flat" alt="harsimar-sahota" /> </p>
 
-- 🔭 I’m currently working on **Connect Sphere**
+- 🔭 I’m currently working on **Connect Sphere(Product/Startup)**
 
 - 🌱 I’m currently learning **As an experienced MERN stack developer, I’ve mastered full-stack development and am now focusing on advanced skills like Next.js, WebSockets, Socket.io, API integration, Jest unit testing, and AWS deployment. These cutting-edge technologies allow me to build real-time, scalable, and high-performance applications, helping me stand out in the competitive tech landscape**
 
 - 👯 I’m looking to collaborate on **DevHub Portal**
 
-- 📝 I regularly write articles on [[https://www.linkedin.com/newsletters/7171421300911984640/](https://www.linkedin.com/newsletters/7171421300911984640/)]([https://www.linkedin.com/newsletters/7171421300911984640/](https://www.linkedin.com/newsletters/7171421300911984640/))
+- 📝 I regularly write articles on [[https://www.linkedin.com/newsletters/7171421300911984640/](https://www.linkedin.com/newsletters/7171421300911984640/)]
 
 - 💬 Ask me about **Crafting seamless user experiences with React and Tailwind, building RESTful APIs with Node.js and Express, optimizing database performance, or anything about acing tech interviews in Canada!**
 
@@ -23,9 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/harsimar1288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsimar1288" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsimar-sahota?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsimar-sahota?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://fb.com/harsimarpreet singh sahota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/harsimarpreet singh sahota" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iharsimarr?igsh=nhixawzpedrxzwhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iharsimarr?igsh=nhixawzpedrxzwhu" height="30" width="40" /></a>
-<a href="https://hashnode.com/@harsimar sahota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harsimar sahota" height="30" width="40" /></a>
+<a href="[https://hashnode.com/@harsimar sahota](https://harsimar-sahota.hashnode.dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harsimar sahota" height="30" width="40" /></a>
 <a href="https://medium.com/@harsimar-sahota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harsimar-sahota" height="30" width="40" /></a>
 </p>
 
