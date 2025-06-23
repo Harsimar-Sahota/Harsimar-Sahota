@@ -8,7 +8,15 @@
 
 ---
 
-### 🚧 Currently Building
+### 📌 TL;DR (Quick Summary)
+🔹 Founder @ Simerra (AI Career Intelligence SaaS)  
+🔹 Building with GPT-4, LangChain, WebRTC, Whisper, Docker  
+🔹 Expert in React, Next.js, PostgreSQL, Node.js  
+🔹 🇨🇦 Based in Calgary | Open to Software Developer Roles (Jan 2026)
+
+---
+
+### 🧠 Currently Building
 
 - 🧠 **Simerra** — AI Career Intelligence SaaS Startup  
   `→ GPT-4 + RAG (LlamaIndex), Supabase, PostgreSQL, Docker, AWS`  
@@ -24,34 +32,34 @@
 
 ---
 
-### 📈 I’m Currently Leveling Up:
+### 🧩 I’m Currently Leveling Up:
 
-- ✅ Mastering Next.js 14, Jest, WebSockets, API integration
-- ✅ AWS EC2, CI/CD pipelines, Dockerized full-stack deployments
-- ✅ GPT agents, LangChain, Whisper, and advanced LLM techniques
+- ✅ Mastering Next.js 14, Jest, WebSockets, API integration  
+- ✅ AWS EC2, CI/CD pipelines, Dockerized full-stack deployments  
+- ✅ GPT agents, LangChain, Whisper, and advanced LLM techniques  
 
 ---
 
-### 📝 I Write About
+### 📝 I Write About:
 
-- 💡 Web Dev tips & real-world project breakdowns
-- 🧠 AI product dev + full-stack architectures
-- 🇨🇦 Job hunting & interview insights for tech roles in Canada
+- 💡 Web Dev tips & real-world project breakdowns  
+- 🧠 AI product dev + full-stack architectures  
+- 🇨🇦 Job hunting & interview insights for tech roles in Canada  
 
 📬 Read: [My LinkedIn Newsletter](https://www.linkedin.com/newsletters/7171421300911984640/)
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let’s Connect:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/harsimar-sahota/)
-- 🧠 [Hashnode Blog](https://harsimar-sahota.hashnode.dev/)
-- ✍️ [Medium](https://medium.com/@HARSIMAR-SAHOTA)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harsimar-sahota/)  
+- 🧠 [Hashnode Blog](https://harsimar-sahota.hashnode.dev/)  
+- ✍️ [Medium](https://medium.com/@HARSIMAR-SAHOTA)  
 - 📧 Email: **harsimar1288@gmail.com**
 
 ---
 
-### 💻 Languages & Tools
+### 🛠️ Languages & Tools:
 
 <p align="left">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
@@ -73,10 +81,26 @@
 
 ---
 
-### ♟️ Fun Fact
+### ♟️ Fun Fact:
 
 I’ve represented **Punjab in state-level chess tournaments** 🏆  
 I use the same strategic mindset to architect scalable systems and debug complex workflows like a grandmaster!
 
 ---
 
+### 📊 GitHub Stats
+
+![Harsimar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsimar-Sahota&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimar-Sahota&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harsimar-Sahota&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harsimar-Sahota&theme=dark)](https://git.io/streak-stats)
