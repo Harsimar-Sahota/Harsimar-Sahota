@@ -22,11 +22,11 @@
   `→ GPT-4 + RAG (LlamaIndex), Supabase, PostgreSQL, Docker, AWS`  
   `→ Real users | Career GPT agent | Resume optimizer | Analytics dashboard`
 
--   **VocaMeet** — Zoom Clone + AI Meeting Assistant  
+-   **VocaMeet** — AI Meeting Assistant  
   `→ WebRTC + Whisper API + GPT-4 + Socket.io + Notion sync`  
   `→ AI-powered call transcription & meeting summary app`
 
--   **FinWise** — Intelligent Stock Dashboard (Zerodha-Inspired)  
+-   **FinWise** — Intelligent Stock Dashboard  
   `→ PostgreSQL + GPT-4 + Docker + LLM integration`  
   `→ Simulates intelligent trading workflows`
 
