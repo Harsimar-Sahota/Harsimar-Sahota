@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsimar Sahota</h1>
-<h3 align="center">🚀 Full-Stack AI Developer | GPT-4 + RAG | Founder @ Simerra | SAIT '25</h3>
+<h3 align="center"> Full-Stack AI Developer | GPT-4 + RAG | Founder @ Simerra | SAIT '25</h3>
 
 <p align="center">
   I build AI-powered, real-time full-stack applications using modern tools like Next.js, WebSockets, and GPT-4.<br>
@@ -18,15 +18,15 @@
 
 ### 🧠 Currently Building
 
-- 🧠 **Simerra** — AI Career Intelligence SaaS Startup  
+-  **Simerra** — AI Career Intelligence SaaS Startup  
   `→ GPT-4 + RAG (LlamaIndex), Supabase, PostgreSQL, Docker, AWS`  
   `→ Real users | Career GPT agent | Resume optimizer | Analytics dashboard`
 
-- 🎙️ **VocaMeet** — Zoom Clone + AI Meeting Assistant  
+-   **VocaMeet** — Zoom Clone + AI Meeting Assistant  
   `→ WebRTC + Whisper API + GPT-4 + Socket.io + Notion sync`  
   `→ AI-powered call transcription & meeting summary app`
 
-- 📊 **FinWise** — Intelligent Stock Dashboard (Zerodha-Inspired)  
+-   **FinWise** — Intelligent Stock Dashboard (Zerodha-Inspired)  
   `→ PostgreSQL + GPT-4 + Docker + LLM integration`  
   `→ Simulates intelligent trading workflows`
 
@@ -34,16 +34,16 @@
 
 ### 🧩 I’m Currently Leveling Up:
 
-- ✅ Mastering Next.js 14, Jest, WebSockets, API integration  
-- ✅ AWS EC2, CI/CD pipelines, Dockerized full-stack deployments  
-- ✅ GPT agents, LangChain, Whisper, and advanced LLM techniques  
+-  Mastering Next.js 14, Jest, WebSockets, API integration  
+-  AWS EC2, CI/CD pipelines, Dockerized full-stack deployments  
+-  GPT agents, LangChain, Whisper, and advanced LLM techniques  
 
 ---
 
 ### 📝 I Write About:
 
 - 💡 Web Dev tips & real-world project breakdowns  
-- 🧠 AI product dev + full-stack architectures  
+-  AI product dev + full-stack architectures  
 - 🇨🇦 Job hunting & interview insights for tech roles in Canada  
 
 📬 Read: [My LinkedIn Newsletter](https://www.linkedin.com/newsletters/7171421300911984640/)
@@ -85,22 +85,3 @@
 
 I’ve represented **Punjab in state-level chess tournaments** 🏆  
 I use the same strategic mindset to architect scalable systems and debug complex workflows like a grandmaster!
-
----
-
-### 📊 GitHub Stats
-
-![Harsimar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsimar-Sahota&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimar-Sahota&layout=compact&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harsimar-Sahota&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harsimar-Sahota&theme=dark)](https://git.io/streak-stats)
