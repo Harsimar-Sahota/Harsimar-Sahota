@@ -12,7 +12,7 @@
 🔹 Full Stack Developer skilled in **MERN (MongoDB, Express, React, Node.js)**  
 🔹 Experienced with **Docker**, **Kubernetes**, and **CI/CD pipelines**  
 🔹 Specialized in **OpenAI API** integration for smart automation  
-🔹 🇨🇦 Based in **Calgary, Alberta** | Open to **Software Developer Roles (Jan 2026)**  
+🔹 🇨🇦 Based in **Calgary, Alberta** | Open to **Software Developer Roles**  
 
 ---
 
@@ -76,10 +76,3 @@
 I’ve represented **Punjab** in state-level chess tournaments 🏆  
 I use the same strategic mindset to architect scalable systems and debug complex workflows — like a grandmaster.
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsimarsahota&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsimarsahota&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
