@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsimar Sahota</h1>
-<h3 align="center">Full-Stack AI Developer | MERN | OpenAI Integrations | SAIT '25</h3>
+<h3 align="center">Full-Stack AI Developer | MERN | OpenAI Integrations | SAIT '26</h3>
 
 <p align="center">
   I build <b>AI-powered, full-stack web applications</b> using modern frameworks and scalable cloud infrastructure.<br>
