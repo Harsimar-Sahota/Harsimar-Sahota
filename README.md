@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Harsimar Sahota</h1>
-<h3 align="center">Full-Stack AI Developer | MERN | OpenAI Integrations | SAIT '26</h3>
+# 👋 Hey there, I'm Harsimar Sahota
 
-<p align="center">
-  I build <b>AI-powered, full-stack web applications</b> using modern frameworks and scalable cloud infrastructure.<br>
-  Passionate about <b>real-world problem solving, intelligent automation,</b> and crafting seamless user experiences.
-</p>
+🚀 **Full-Stack & AI Developer | MERN Stack | OpenAI Integrations | SAIT Software Development Diploma (Apr 2026)**  
+🎯 Focused on building production-grade web & AI apps that solve real problems.
+
+### 🧭 About My Journey
+I transitioned in 2024 from foundational learning into shipping production-ready full-stack and AI systems.  
+Since October 2024 I’ve focused on deployable MERN apps with OpenAI integrations, containerization, and CI/CD—turning prototypes into user-facing tools.
 
 ---
 
@@ -13,17 +14,18 @@
 🔹 Experienced with **Docker**, **CI/CD pipelines** and **Git tools** 
 🔹 Specialized in **OpenAI API** integration for smart automation  
 🔹 🇨🇦 Based in **Calgary, Alberta** | Open to **Software Developer Roles**  
-
 ---
+#will be updating soon here
+### 🛠 Pinned Projects (Highlights)
+| Project | Description | Demo |
+|----------|--------------|------|
+| [AI Interview Prep App](#) | AI-powered interviewer built with MERN + OpenAI | 🔗 [Live Demo](#) |
+| [AI Invoice Generator](#) | Generates smart PDF invoices using OpenAI API | 🔗 [Live Demo](#) |
+| [Portfolio Website](#) | Personal portfolio showcasing projects and skills | 🔗 [Visit Site](#) |
 
-### 💼 Featured Projects
-
-- **🧾 AI Invoice Generator**  
-  A smart business automation app that generates invoices, sends reminders, and delivers analytics using AI.  
-  `→ React, Node.js, Express, MongoDB, OpenAI API, Docker, CI/CD`
-
----
-
+### 🧩 Stats & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)
 ### 🧩 Tech Stack & Tools
 
 <p align="left">
@@ -62,6 +64,9 @@
 **AI Tools:** OpenAI API, LangChain (RAG basics)  
 **Version Control:** Git, GitHub  
 
+---
+> 💡 *Earlier 2024 activity includes private internship / client work under NDA.  
+> Since October, I’ve been focusing on open-source and public projects.*
 ---
 
 ### ♟️ Fun Fact
