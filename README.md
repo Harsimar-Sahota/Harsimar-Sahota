@@ -10,7 +10,7 @@
 
 ### 📌 Quick Summary
 🔹 Full Stack Developer skilled in **MERN (MongoDB, Express, React, Node.js)**  
-🔹 Experienced with **Docker**, **Kubernetes**, and **CI/CD pipelines**  
+🔹 Experienced with **Docker**, **CI/CD pipelines** and **Git tools** 
 🔹 Specialized in **OpenAI API** integration for smart automation  
 🔹 🇨🇦 Based in **Calgary, Alberta** | Open to **Software Developer Roles**  
 
@@ -21,14 +21,6 @@
 - **🧾 AI Invoice Generator**  
   A smart business automation app that generates invoices, sends reminders, and delivers analytics using AI.  
   `→ React, Node.js, Express, MongoDB, OpenAI API, Docker, CI/CD`
-
-- **🏠 LocalStay (Airbnb-Inspired Platform)**  
-  Property rental and listing platform featuring authentication, search, and booking management.  
-  `→ React, Node.js, Express, MongoDB, Tailwind, JWT Auth`
-
-- **📈 TradePulse AI (Zerodha-Inspired App)**  
-  AI-driven investment dashboard that visualizes market data and provides smart portfolio insights.  
-  `→ React, Node.js, Express, MongoDB, WebSockets, OpenAI API`
 
 ---
 
@@ -66,7 +58,7 @@
 ### 🛠️ Languages & Frameworks
 **Frontend:** React, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)  
 **Backend:** Node.js, Express.js, MongoDB, REST APIs  
-**DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions), AWS  
+**DevOps:** Docker, CI/CD (GitHub Actions), AWS  
 **AI Tools:** OpenAI API, LangChain (RAG basics)  
 **Version Control:** Git, GitHub  
 
