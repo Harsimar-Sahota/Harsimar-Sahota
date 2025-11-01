@@ -73,3 +73,7 @@ Since October 2024 I’ve focused on deployable MERN apps with OpenAI integratio
 I’ve represented **Punjab** in state-level chess tournaments 🏆  
 I use the same strategic mindset to architect scalable systems and debug complex workflows — like a grandmaster.
 
+---
+💼 **Currently open to Software Developer (MERN / AI) roles — Based in Calgary, Alberta.**
+
+
