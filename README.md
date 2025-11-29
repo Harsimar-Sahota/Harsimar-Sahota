@@ -10,11 +10,11 @@
 I don’t just build projects — I ship **real products** with scalable backends, clean frontends, and intelligent AI layers.  
 My work blends:
 
-- ⚙️ **Full-Stack Engineering (MERN)**
-- 🤖 **AI Integrations (OpenAI / Gemini)**
-- 🛠️ **DevOps (Docker + GitHub Actions CI/CD)**
-- 🧠 **Prompt Engineering**
-- 🚀 **Startup product velocity**
+-  **Full-Stack Engineering (MERN)**
+-  **AI Integrations (OpenAI / Gemini)**
+-  **DevOps (Docker + GitHub Actions CI/CD)**
+-  **Prompt Engineering**
+-  **Startup product velocity**
 
 I've built & deployed full-stack AI apps like **Finvoice AI** and **InterroGen AI**, each engineered as **production-level systems** with authentication, analytics, cloud deployments, and real user adoption.
 
@@ -23,7 +23,7 @@ I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored 200+ developers and 
 ---
 
 ## 📌 **Featured Projects**
-### 🔥 **Finvoice AI — AI-Powered Invoice Automation Platform**  
+###  **Finvoice AI — AI-Powered Invoice Automation Platform**  
 > Full-stack financial automation tool adopted by small businesses  
 - Converts emails & text into structured invoices using **Gemini API**  
 - PDF export, dashboards, analytics, reminders  
@@ -32,7 +32,7 @@ I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored 200+ developers and 
 
 ---
 
-### 🤖 **InterroGen AI — AI Technical Interview Generator**  
+###  **InterroGen AI — AI Technical Interview Generator**  
 > Used by Alberta AI & Tech Innovation Club  
 - Generates role-specific interview questions + step-by-step explanations  
 - Saves sessions, supports multiple roles & difficulty levels  
@@ -41,7 +41,7 @@ I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored 200+ developers and 
 
 ---
 
-### 🌐 **Portfolio**  
+###  **Portfolio**  
 A modern portfolio showcasing my full-stack work, built with **React + Tailwind** and deployed on Vercel.  
 🔗 **Visit Portfolio**
 
@@ -56,20 +56,20 @@ Libraries / Frameworks: React.js • Next.js • Node.js • Express.js • Mong
 AI & Computer Science: OpenAI API • Prompt Engineering  • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
 ---
 
-## 📊 **GitHub Stats**
+##  **GitHub Stats**
 > _(Stats auto-update — dark theme for clean, professional look)_  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsimar1288&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimar1288&layout=compact&theme=tokyonight)
 
 ---
 
-## 🧠 **What I Write About**
+##  **What I Write About**
 - Full-Stack Development (MERN, CI/CD, Scalable APIs)  
 - Applied AI (Prompt Engineering, AI Integrations, Production AI)  
 - Career Growth in Canadian Tech  
 - Software Engineering Principles  
 
-📓 **Read my articles:**  
+ **Read my articles:**  
 - [LinkedIn Articles](https://www.linkedin.com/in/harsimar-sahota/)
 - [Hashnode Blog](https://harsimar-sahota.hashnode.dev/)
 
@@ -94,5 +94,3 @@ The same strategic thinking helps me architect scalable systems, debug efficient
 📩 **Email:** Harsimar1288@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/harsimar-sahota/)
 🌐 [Portfolio](https://your-portfolio-link.com)
-
-💼 **Actively seeking Full-Stack / AI Developer roles in Alberta.**  
