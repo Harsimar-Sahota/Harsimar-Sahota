@@ -57,32 +57,6 @@ AI & Computer Science: OpenAI API • Prompt Engineering  • OOP • DBMS • D
 
 ---
 
-##  **What I Write About**
-- Full-Stack Development (MERN, CI/CD, Scalable APIs)  
-- Applied AI (Prompt Engineering, AI Integrations, Production AI)  
-- Career Growth in Canadian Tech  
-- Software Engineering Principles  
-
- **Read my articles:**  
-- [LinkedIn Articles](https://www.linkedin.com/in/harsimar-sahota/)
-- [Hashnode Blog](https://harsimar-sahota.hashnode.dev/)
-
-
----
-
-## 🏆 **Certifications**
-- Y Combinator — *Train to Work at a Startup (2025)*  
-- Accenture — *Technology Foundations*  
-- Blackbird — *Software Engineering Experience*  
-
----
-
-## ♟️ **Fun Fact**
-I’ve represented **Punjab** in state-level chess tournaments.  
-The same strategic thinking helps me architect scalable systems, debug efficiently, and design clean architectures.
-
----
-
 ## 📬 **Let’s Connect**
 📍 Calgary, Alberta  
 📩 **Email:** Harsimar1288@gmail.com  
