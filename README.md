@@ -54,12 +54,6 @@ Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3
 Developer Tools: Git • GitHub • Docker • GitHub Actions (CI/CD) • Postman • AWS  • Agile • SDLC• Vercel • AI IDEs: Cursor, Windsurf
 Libraries / Frameworks: React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS
 AI & Computer Science: OpenAI API • Prompt Engineering  • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
----
-
-##  **GitHub Stats**
-> _(Stats auto-update — dark theme for clean, professional look)_  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsimar1288&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimar1288&layout=compact&theme=tokyonight)
 
 ---
 
@@ -92,5 +86,5 @@ The same strategic thinking helps me architect scalable systems, debug efficient
 ## 📬 **Let’s Connect**
 📍 Calgary, Alberta  
 📩 **Email:** Harsimar1288@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/harsimar-sahota/)
-🌐 [Portfolio](https://your-portfolio-link.com)
+   [LinkedIn](https://www.linkedin.com/in/harsimar-sahota/)
+   [Portfolio](https://your-portfolio-link.com)
