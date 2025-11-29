@@ -1,8 +1,8 @@
 # 👋 Hey, I'm **Harsimarpreet Singh Sahota**
 
-🚀 **Full-Stack AI Developer (React • Node.js • MongoDB • Docker • CI/CD)**  
-🎯 I build **production-grade software & AI systems** used by real users, startups, and student communities in Calgary.  
-📍 Based in **Calgary, Alberta** | Seeking **Full-Stack / AI Developer roles**
+ **Full-Stack Developer (React • Next.js  • TypeScript • Node.js • MongoDB • Docker • CI/CD)**  
+ I build **production-grade software & AI systems** used by real users, startups, and student communities in Calgary.  
+📍 Based in **Calgary, Alberta** 
 
 ---
 
@@ -50,21 +50,16 @@ A modern portfolio showcasing my full-stack work, built with **React + Tailwind*
 ## 🛠 **Tech Stack & Tools**
 
 ### **Languages & Frameworks**
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3  
-- **Backend:** Node.js, Express.js, MongoDB, REST APIs  
-- **AI:** OpenAI API, Gemini API, Prompt Engineering, AI-assisted IDEs (Cursor, Windsurf)  
-- **DevOps:** Docker, GitHub Actions (CI/CD), AWS, Vercel  
-- **Programming Concepts:** OOP, DSA, OS, DBMS  
-
-### **Developer Tools**
-Git • GitHub • Postman • VS Code • Jira • Notion • Figma
-
+Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3
+Developer Tools: Git • GitHub • Docker • GitHub Actions (CI/CD) • Postman • AWS  • Agile • SDLC• Vercel • AI IDEs: Cursor, Windsurf
+Libraries / Frameworks: React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS
+AI & Computer Science: OpenAI API • Prompt Engineering  • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
 ---
 
 ## 📊 **GitHub Stats**
 > _(Stats auto-update — dark theme for clean, professional look)_  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsimar-Sahota&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimar-Sahota&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsimar1288&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimar1288&layout=compact&theme=tokyonight)
 
 ---
 
@@ -75,8 +70,9 @@ Git • GitHub • Postman • VS Code • Jira • Notion • Figma
 - Software Engineering Principles  
 
 📓 **Read my articles:**  
-- LinkedIn Articles  
-- Hashnode Blog  
+- [LinkedIn Articles](https://www.linkedin.com/in/harsimar-sahota/)
+- [Hashnode Blog](https://harsimar-sahota.hashnode.dev/)
+
 
 ---
 
@@ -96,7 +92,7 @@ The same strategic thinking helps me architect scalable systems, debug efficient
 ## 📬 **Let’s Connect**
 📍 Calgary, Alberta  
 📩 **Email:** Harsimar1288@gmail.com  
-🔗 **LinkedIn:** /in/harsimar-sahota  
-🌐 **Portfolio:** (Add link)
+🔗 [LinkedIn](https://www.linkedin.com/in/harsimar-sahota/)
+🌐 [Portfolio](https://your-portfolio-link.com)
 
 💼 **Actively seeking Full-Stack / AI Developer roles in Alberta.**  
