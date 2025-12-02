@@ -36,28 +36,7 @@ A modern portfolio showcasing my full-stack work, built with **React + Tailwind*
 🔗 **Visit Portfolio**
 
 ---
-
-Languages: <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://cdn.simpleicons.org/javascript" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://cdn.simpleicons.org/typescript" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://www.java.com/" title="Java">
-    <img src="https://cdn.simpleicons.org/openjdk" height="36" alt="Java (OpenJDK)" />
-  </a>
-  <a href="https://www.mysql.com/" title="SQL / MySQL">
-    <img src="https://cdn.simpleicons.org/mysql" height="36" alt="MySQL" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-    <img src="https://cdn.simpleicons.org/html5" height="36" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://cdn.simpleicons.org/css3" height="36" alt="CSS3" />
-  </a>
-</p>
-
+Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3
 Developer Tools: Git • GitHub • Docker • GitHub Actions (CI/CD) • Postman • AWS • Agile • SDLC• Vercel • AI IDEs: Cursor, Windsurf 
 Libraries / Frameworks: React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS AI & Computer Science: OpenAI API • Prompt Engineering • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
 
