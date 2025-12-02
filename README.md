@@ -22,22 +22,12 @@ I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored 200+ developers and 
 
 ---
 
-## 📌 **Featured Projects**
-###  **Finvoice AI — AI-Powered Invoice Automation Platform**  
-> Full-stack financial automation tool adopted by small businesses  
-- Converts emails & text into structured invoices using **Gemini API**  
-- PDF export, dashboards, analytics, reminders  
-- **JWT Auth, Express APIs, MongoDB**, and CI/CD pipelines  
-🔗 **Live Demo** | 🔗 **Source Code**
+## 📌 Featured Projects
 
----
-
-###  **InterroGen AI — AI Technical Interview Generator**  
-> Used by Alberta AI & Tech Innovation Club  
-- Generates role-specific interview questions + step-by-step explanations  
-- Saves sessions, supports multiple roles & difficulty levels  
-- **React, Node.js, MongoDB, JWT Auth, Gemini/OpenAI**  
-🔗 **Live Demo** | 🔗 **Source Code**
+| Project | Summary | Tech Stack | Links |
+|--------|---------|-------------|--------|
+| **Finvoice AI**<br>AI-Powered Invoice Automation Platform | Full-stack financial automation tool adopted by small businesses. Converts unstructured emails/text into structured invoices with analytics, reminders & PDF export. | **MERN**, JWT Auth, Express APIs, MongoDB, Docker, GitHub Actions CI/CD, Gemini API | 🔗 [Live Demo](#) <br> 🔗 [Source Code](#) |
+| **InterroGen AI**<br>AI Technical Interview Generator | Platform used by Alberta AI & Tech Innovation Club. Generates role-specific technical questions + solutions with saved sessions and multi-role support. | **MERN**, JWT, MongoDB, Gemini & OpenAI APIs, Responsive React UI | 🔗 [Live Demo](#) <br> 🔗 [Source Code](#) |
 
 ---
 
