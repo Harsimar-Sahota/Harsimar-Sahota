@@ -39,22 +39,22 @@ A modern portfolio showcasing my full-stack work, built with **React + Tailwind*
 
 Languages: <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="JavaScript" />
+    <img src="https://cdn.simpleicons.org/javascript" height="36" alt="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" height="36" alt="TypeScript" />
+    <img src="https://cdn.simpleicons.org/typescript" height="36" alt="TypeScript" />
   </a>
   <a href="https://www.java.com/" title="Java">
-    <img src="https://cdn.simpleicons.org/java/007396" height="36" alt="Java" />
+    <img src="https://cdn.simpleicons.org/openjdk" height="36" alt="Java (OpenJDK)" />
   </a>
   <a href="https://www.mysql.com/" title="SQL / MySQL">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="36" alt="MySQL" />
+    <img src="https://cdn.simpleicons.org/mysql" height="36" alt="MySQL" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" height="36" alt="HTML5" />
+    <img src="https://cdn.simpleicons.org/html5" height="36" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" height="36" alt="CSS3" />
+    <img src="https://cdn.simpleicons.org/css3" height="36" alt="CSS3" />
   </a>
 </p>
 
