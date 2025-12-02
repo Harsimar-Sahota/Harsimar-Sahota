@@ -47,13 +47,67 @@ A modern portfolio showcasing my full-stack work, built with **React + Tailwind*
 
 ---
 
-## 🛠 **Tech Stack & Tools**
+## 🛠 Tech Stack & Tools
 
-### **Languages & Frameworks**
-Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3
-Developer Tools: Git • GitHub • Docker • GitHub Actions (CI/CD) • Postman • AWS  • Agile • SDLC• Vercel • AI IDEs: Cursor, Windsurf
-Libraries / Frameworks: React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS
-AI & Computer Science: OpenAI API • Prompt Engineering  • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
+### **Languages**
+<p>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3"/>
+</p>
+
+---
+
+### **Frontend**
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS"/>
+</p>
+
+---
+
+### **Backend**
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman"/>
+</p>
+
+---
+
+### **AI & LLM Tools**
+<p>
+  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="OpenAI API"/>
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Gemini"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/000000" height="40" alt="GitHub Copilot"/>
+</p>
+
+---
+
+### **DevOps / Cloud**
+<p>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS"/>
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel"/>
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions"/>
+</p>
+
+---
+
+### **Developer Tools**
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="Notion"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma"/>
+</p>
 
 ---
 
