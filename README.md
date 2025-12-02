@@ -47,7 +47,10 @@ A modern portfolio showcasing my full-stack work, built with **React + Tailwind*
 
 ---
 
-Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3 Developer Tools: Git • GitHub • Docker • GitHub Actions (CI/CD) • Postman • AWS • Agile • SDLC• Vercel • AI IDEs: Cursor, Windsurf Libraries / Frameworks: React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS AI & Computer Science: OpenAI API • Prompt Engineering • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
+Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3 
+Developer Tools: Git • GitHub • Docker • GitHub Actions (CI/CD) • Postman • AWS • Agile • SDLC• Vercel • AI IDEs: Cursor, Windsurf 
+Libraries / Frameworks: React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS AI & Computer Science: OpenAI API • Prompt Engineering • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
+
 ---
 
 ## 📬 **Let’s Connect**
