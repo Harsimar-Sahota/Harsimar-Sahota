@@ -18,7 +18,7 @@ My work blends:
 
 I've built & deployed full-stack AI apps like **Finvoice AI** and **InterroGen AI**, each engineered as **production-level systems** with authentication, analytics, cloud deployments, and real user adoption.
 
-I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored 200+ developers and organized large-scale AI & full-stack workshops.
+I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored many developers and organized large-scale AI & full-stack workshops.
 
 ---
 
