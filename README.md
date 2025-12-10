@@ -31,9 +31,10 @@ I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored many developers and 
 
 ---
 
-###  **Portfolio**  
-A modern portfolio showcasing my full-stack work, built with **React + Tailwind** and deployed on Vercel.  
-🔗 **Visit Portfolio**
+### 🌐 Portfolio  
+My personal developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS** — showcasing my projects, experience, and skills.  
+
+🔗 **Live:** https://www.harsimar.xyz
 
 ---
 Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3
@@ -46,4 +47,4 @@ Libraries / Frameworks: React.js • Next.js • Node.js • Express.js • Mong
 📍 Calgary, Alberta  
 📩 **Email:** Harsimar1288@gmail.com  
    [LinkedIn](https://www.linkedin.com/in/harsimar-sahota/)
-   [Portfolio](https://your-portfolio-link.com)
+   [Portfolio](https://www.harsimar.xyz)
