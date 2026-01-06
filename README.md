@@ -26,9 +26,8 @@ I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored many developers and 
 
 | Project | Summary | Tech Stack | Links |
 |--------|---------|-------------|--------|
-| **Finvoice AI**<br>AI-Powered Invoice Automation Platform | Full-stack financial automation tool adopted by small businesses. Converts unstructured emails/text into structured invoices with analytics, reminders & PDF export. | **MERN**, JWT Auth, Express APIs, MongoDB, Docker, GitHub Actions CI/CD, Gemini API | 🔗 [Live Demo]([#](https://www.finvoiceai.app)) <br> 🔗 [Source Code]([#](https://github.com/Harsimar-Sahota/Finvoice-AI)) |
-| **InterroGen AI**<br>AI Technical Interview Generator | Platform used by Alberta AI & Tech Innovation Club. Generates role-specific technical questions + solutions with saved sessions and multi-role support. | **MERN**, JWT, MongoDB, Gemini & OpenAI APIs, Responsive React UI | 🔗 [Live Demo]([#](https://www.interrogenai.dev)) <br> 🔗 [Source Code]([#](https://github.com/Harsimar-Sahota/InterroGen-AI)) |
-
+| **Finvoice AI**<br>AI-Powered Invoice Automation Platform | Full-stack financial automation tool adopted by small businesses. Converts unstructured emails/text into structured invoices with analytics, reminders, and PDF export. | **MERN**, JWT Auth, Express APIs, MongoDB, Docker, GitHub Actions (CI/CD), Gemini API | 🔗 [Live Demo](https://www.finvoiceai.app)<br>🔗 [Source Code](https://github.com/Harsimar-Sahota/Finvoice-AI) |
+| **InterroGen AI**<br>AI Technical Interview Generator | Platform used by Alberta AI & Tech Innovation Club. Generates role-specific technical questions and solutions with saved sessions and multi-role support. | **MERN**, JWT, MongoDB, Gemini & OpenAI APIs, Responsive React UI | 🔗 [Live Demo](https://www.interrogenai.dev)<br>🔗 [Source Code](https://github.com/Harsimar-Sahota/InterroGen-AI) |
 ---
 
 ### 🌐 Portfolio  
