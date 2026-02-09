@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Harsimarpreet Singh Sahota**
 
- **Full-Stack Developer (React • Next.js  • TypeScript • Node.js • MongoDB • Docker • CI/CD)**  
+ **Full-Stack Developer (React • TypeScript • Node.js • MongoDB • Docker • CI/CD)**  
  I build **production-grade software & AI systems** used by real users, startups, and student communities in Calgary.  
 📍 Based in **Calgary, Alberta** 
 
@@ -38,7 +38,7 @@ My personal developer portfolio built with **Next.js**, **TypeScript**, and **Ta
 ---
 Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3
 Developer Tools: Git • GitHub • Docker • GitHub Actions (CI/CD) • Postman • AWS • Agile • SDLC• Vercel • AI IDEs: Cursor, Windsurf 
-Libraries / Frameworks: React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS AI & Computer Science: OpenAI API • Prompt Engineering • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
+Libraries / Frameworks: React.js • Node.js • Express.js • MongoDB • Tailwind CSS AI & Computer Science: OpenAI API • Prompt Engineering • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
 
 ---
 
