@@ -37,8 +37,11 @@ My personal developer portfolio built with **Next.js**, **TypeScript**, and **Ta
 
 ---
 Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3
+
 Developer Tools: Git • GitHub • Docker • GitHub Actions (CI/CD) • Postman • AWS • Agile • SDLC• Vercel • AI IDEs: Cursor, Windsurf 
+
 Libraries / Frameworks: React.js • Node.js • Express.js • MongoDB • Tailwind CSS 
+
 AI & Computer Science: OpenAI API • Prompt Engineering • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
 
 ---
