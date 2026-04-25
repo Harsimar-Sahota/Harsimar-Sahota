@@ -31,7 +31,7 @@ I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored many developers and 
 ---
 
 ### 🌐 Portfolio  
-My personal developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS** — showcasing my projects, experience, and skills.  
+My personal developer portfolio built with **React.js**, **TypeScript**, and **Tailwind CSS** — showcasing my projects, experience, and skills.  
 
 🔗 **Live:** https://www.harsimar.xyz
 
