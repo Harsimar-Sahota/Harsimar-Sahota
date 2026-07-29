@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Business Analyst** based in **Calgary, Alberta**, passionate about solving business problems through **data analysis, process improvement, and technology**.
 
@@ -34,7 +34,7 @@ Currently pursuing a **Diploma in Software Development at SAIT**, while strength
 
 # 🛠 Technical Skills
 
-### 📊 Business Analysis
+###  Business Analysis
 
 - Requirements Gathering
 - Stakeholder Analysis
@@ -48,7 +48,7 @@ Currently pursuing a **Diploma in Software Development at SAIT**, while strength
 - SDLC
 - UAT Coordination
 
-### 📈 Data Analytics
+###  Data Analytics
 
 - SQL
 - MySQL
@@ -69,7 +69,7 @@ Currently pursuing a **Diploma in Software Development at SAIT**, while strength
 
 # 📂 Featured Projects
 
-## 📌 Northwind Traders Sales Analytics & Business Intelligence
+##  Northwind Traders Sales Analytics & Business Intelligence
 
 **Business Intelligence project** using SQL & MySQL to analyze customer behavior, sales performance, product trends, shipping efficiency, and operational performance.
 
@@ -79,7 +79,7 @@ Currently pursuing a **Diploma in Software Development at SAIT**, while strength
 
 ---
 
-## 📌 Retail Profitability Analysis Dashboard
+##  Retail Profitability Analysis Dashboard
 
 Interactive Tableau dashboard analyzing **4 years of retail sales** to identify profitability trends, loss-making products, regional performance, and business opportunities.
 
@@ -89,7 +89,7 @@ Interactive Tableau dashboard analyzing **4 years of retail sales** to identify 
 
 ---
 
-## 📌 HR Analytics Dashboard
+##  HR Analytics Dashboard
 
 Interactive Excel dashboard built using **Pivot Tables** and **Power Query** to analyze workforce KPIs, attrition, demographics, and employee retention.
 
@@ -101,13 +101,12 @@ Interactive Excel dashboard built using **Pivot Tables** and **Power Query** to 
 
 # 🎓 Professional Development
 
-- ✅ PwC Technology Consulting Simulation (Forage)
-- ✅ KPMG Advisory & Data Analytics Simulation (Forage)
+-  PwC Technology Consulting Simulation (Forage)
+-  KPMG Advisory & Data Analytics Simulation (Forage)
 
 ---
 
-### 🌐 Portfolio  
-My personal developer portfolio built with **React.js**, **TypeScript**, and **Tailwind CSS** — showcasing my projects, experience, and skills.  
+### 🌐 Portfolio   
 
 🔗 **Live:** https://www.harsimar.xyz
 
