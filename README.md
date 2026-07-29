@@ -1,48 +1,90 @@
-# 👋 Hey, I'm **Harsimarpreet Singh Sahota**
+👋 Hi, I'm Harsimarpreet Singh Sahota
+Business Analyst | Data Analytics | Business Intelligence
 
- **Full-Stack Developer (React • TypeScript • Node.js • MongoDB • Docker • CI/CD)**  
- I build **production-grade software & AI systems** used by real users, startups, and student communities in Calgary.  
-📍 Based in **Calgary, Alberta** 
+I'm a Business Analyst based in Calgary, Alberta, with hands-on experience translating business requirements into practical solutions through SQL, Excel, Tableau, and business process analysis.
 
----
+I enjoy working at the intersection of business and technology—analyzing data, improving processes, and helping stakeholders make informed decisions.
 
-## 🌟 **About Me**
-I don’t just build projects — I ship **real products** with scalable backends, clean frontends, and intelligent AI layers.  
-My work blends:
+Currently, I'm completing a Diploma in Software Development at SAIT while building practical Business Analysis experience through industry projects, consulting simulations, and an internship.
 
--  **Full-Stack Engineering (MERN)**
--  **AI Integrations (OpenAI / Gemini)**
--  **DevOps (Docker + GitHub Actions CI/CD)**
--  **Prompt Engineering**
--  **Startup product velocity**
+💼 What I Do
+Analyze business problems using data
+Gather and document business requirements
+Create dashboards that support decision-making
+Perform SQL analysis to uncover business insights
+Translate stakeholder needs into user stories and acceptance criteria
+Support Agile software development and UAT activities
+Improve business processes through workflow analysis and process mapping
+🛠 Technical Skills
+Business Analysis
+Requirements Gathering
+Stakeholder Analysis
+Business Process Analysis
+Process Mapping
+Gap Analysis
+User Stories
+Acceptance Criteria
+BRD / FRD Documentation
+Agile & Scrum
+SDLC
+UAT Coordination
+Data & Analytics
+SQL
+MySQL
+Microsoft Excel
+Power Query
+Tableau
+Power BI
+AI Productivity
+ChatGPT
+Microsoft Copilot
+Claude
+Google Gemini
+Perplexity
+📊 Featured Projects
+📌 Northwind Traders Sales Analytics & Business Intelligence
 
-I've built & deployed full-stack AI apps like **Finvoice AI** and **InterroGen AI**, each engineered as **production-level systems** with authentication, analytics, cloud deployments, and real user adoption.
+Business intelligence project using SQL and MySQL to analyze sales performance, customer behavior, shipping efficiency, and operational trends through advanced SQL queries.
 
-I'm also the **Lead of GDSC @ SAIT**, where I’ve mentored many developers and organized large-scale AI & full-stack workshops.
+Skills
 
----
+SQL
+Joins
+Aggregations
+Subqueries
+CTEs
+Data Modeling
+Business Analysis
+📌 Retail Profitability Analysis Dashboard
 
-## 📌 Featured Projects
+Interactive Tableau dashboard analyzing four years of retail sales to identify profitability trends, underperforming products, regional performance, and business opportunities.
 
-| Project | Summary | Tech Stack | Links |
-|--------|---------|-------------|--------|
-| **Finvoice AI**<br>AI-Powered Invoice Automation Platform | Full-stack financial automation tool adopted by small businesses. Converts unstructured emails/text into structured invoices with analytics, reminders, and PDF export. | **MERN**, JWT Auth, Express APIs, MongoDB, Docker, GitHub Actions (CI/CD), Gemini API | 🔗 [Live Demo](https://www.finvoiceai.app)<br>🔗 [Source Code](https://github.com/Harsimar-Sahota/Finvoice-AI) |
-| **InterroGen AI**<br>AI Technical Interview Generator | Platform used by Alberta AI & Tech Innovation Club. Generates role-specific technical questions and solutions with saved sessions and multi-role support. | **MERN**, JWT, MongoDB, Gemini & OpenAI APIs, Responsive React UI | 🔗 [Live Demo](https://www.interrogenai.dev)<br>🔗 [Source Code](https://github.com/Harsimar-Sahota/InterroGen-AI) |
----
+Skills
+
+Tableau
+Dashboard Design
+Data Visualization
+Business Insights
+Trend Analysis
+📌 HR Analytics Dashboard
+
+Interactive Excel dashboard built with Pivot Tables and Power Query to analyze workforce KPIs including attrition, demographics, department performance, and employee retention.
+
+Skills
+
+Excel
+Pivot Tables
+Power Query
+KPI Reporting
+HR Analytics
+🎓 Professional Development
+PwC Technology Consulting Simulation
+KPMG Advisory & Data Analytics Simulation
 
 ### 🌐 Portfolio  
 My personal developer portfolio built with **React.js**, **TypeScript**, and **Tailwind CSS** — showcasing my projects, experience, and skills.  
 
 🔗 **Live:** https://www.harsimar.xyz
-
----
-Languages: JavaScript (ES6+) • TypeScript • Java • SQL • HTML5 • CSS3
-
-Developer Tools: Git • GitHub • Docker • GitHub Actions (CI/CD) • Postman • AWS • Agile • SDLC• Vercel • AI IDEs: Cursor, Windsurf 
-
-Libraries / Frameworks: React.js • Node.js • Express.js • MongoDB • Tailwind CSS 
-
-AI & Computer Science: OpenAI API • Prompt Engineering • OOP • DBMS • Data Structures & Algorithms • Operating Systems • AI Development Tools (ChatGPT, Gemini, Copilot + others)
 
 ---
 
