@@ -76,7 +76,7 @@ Currently pursuing a **Diploma in Software Development at SAIT**, while strength
 **Technologies**
 
 `SQL` • `MySQL` • `CTEs` • `Joins` • `Subqueries` • `Aggregations` • `Data Modeling`
-
+## 🔹 [Northwind Traders Sales Analytics & Business Intelligence](https://github.com/Harsimar-Sahota/northwind-sql-business-analysis)
 ---
 
 ##  Retail Profitability Analysis Dashboard
@@ -86,7 +86,7 @@ Interactive Tableau dashboard analyzing **4 years of retail sales** to identify 
 **Technologies**
 
 `Tableau` • `Dashboard Design` • `Business Intelligence` • `Data Visualization`
-
+## 🔹 [Retail Profitability Analysis Dashboard](https://github.com/Harsimar-Sahota/Retail-Profitability-Analysis-Dashboard)
 ---
 
 ##  HR Analytics Dashboard
@@ -96,7 +96,7 @@ Interactive Excel dashboard built using **Pivot Tables** and **Power Query** to 
 **Technologies**
 
 `Excel` • `Pivot Tables` • `Power Query` • `KPI Reporting`
-
+## 🔹 [HR Analytics Dashboard](https://github.com/Harsimar-Sahota/hr-analytics-dashboard-excel)
 ---
 
 # 🎓 Professional Development
