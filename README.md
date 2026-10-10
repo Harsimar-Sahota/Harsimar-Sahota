@@ -6,11 +6,11 @@
 
 ##  About Me
 
-I'm a **Business Analyst** based in **Calgary, Alberta**, passionate about solving business problems through **data analysis, process improvement, and technology**.
+I'm a **Business Analyst** passionate about solving business problems through **data analysis, process improvement, and technology**.
 
 I have practical experience gathering business requirements, supporting Agile teams, creating dashboards, and transforming raw data into actionable business insights using **SQL, Excel, Tableau, and Power BI**.
 
-Currently pursuing a **Diploma in Software Development at SAIT**, while strengthening my Business Analysis expertise through industry projects, consulting simulations, and internship experience.
+Currently completed a **Diploma in Software Development at SAIT**, while strengthening my Business Analysis expertise through industry projects, consulting simulations, and internship experience.
 
 ---
 
@@ -103,7 +103,7 @@ Interactive Excel dashboard built using **Pivot Tables** and **Power Query** to 
 
 -  PwC Technology Consulting Simulation (Forage)
 -  KPMG Advisory & Data Analytics Simulation (Forage)
-
+-  Entry Certificate in Business Analysis (ECBA™) — IIBA (In Progress) 
 ---
 
 ### 🌐 Portfolio   
@@ -113,7 +113,6 @@ Interactive Excel dashboard built using **Pivot Tables** and **Power Query** to 
 ---
 
 ## 📬 **Let’s Connect**
-📍 Calgary, Alberta  
 📩 **Email:** Harsimar1288@gmail.com  
    [LinkedIn](https://www.linkedin.com/in/harsimar-sahota/)
    [Portfolio](https://www.harsimar.xyz)
